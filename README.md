@@ -1,4 +1,4 @@
-# C/C++-toys
+# C- toys
 some toy demo writen by C/C++
 
 ### Arduino
